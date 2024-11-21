@@ -290,7 +290,7 @@
       "url": "https://packages.unity.com"
     },
     "org.mixedrealitytoolkit.core": {
-      "version": "file:MixedReality/org.mixedrealitytoolkit.core-3.2.0.tgz",
+      "version": "file:MixedReality/org.mixedrealitytoolkit.core-3.2.2.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
